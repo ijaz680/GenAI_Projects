@@ -1,0 +1,5 @@
+streamlit
+groq
+youtube_transcript_api==0.6.3
+python-dotenv
+pathlib
